@@ -6,5 +6,5 @@ In this project, instead of using the traditional dynamic programming, I impleme
 #### (2)Data cleaning and transmit matrix estimation
 Will pull up later
 #### (3)Simulation and RNN framework
-I am working on this now
+I am working on this now.    
 To be continue...
